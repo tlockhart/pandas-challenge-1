@@ -1,7 +1,7 @@
-# Data Analysis with Pandas Challenge
+# Wholesale Data Analysis
 
-## Background
-The attached Jupyter Notebook provides an in-depth analysis of a dataset from a fictional e-commerce company. This analysis includes identifying top customers, popular product categories, calculating profits, and more. The goal is to build skills in data exploration, transformation, and analysis, offering hands-on experience with scenarios that mirror complex, data-driven decision-making in business.
+## Summary
+The included Jupyter Notebook offers a comprehensive analysis of a dataset from a fictional e-commerce company, covering key insights such as identifying top customers, analyzing popular product categories, and calculating profits. The notebook is designed to build skills in data exploration, transformation, and analysis, providing hands-on experience with scenarios that simulate real-world, data-driven decision-making in business contexts.
 
 
 ## Setup
